@@ -243,3 +243,35 @@
 #info-content p {
   border-radius: 10px;
 }
+
+/*Footerzin*/
+
+#footer{
+  padding: 3em 2em;
+}
+
+#footer-top {
+  margin-bottom: 2em;
+}
+
+#footer-top,
+#footer-top i {
+  color: white;
+}
+
+#social-icons {
+  text-align: right;
+}
+
+#social-icons i {
+  margin-right: 1em;
+  font-size: 1.8em;
+}
+
+#social-icons i:hover {
+  color: #7a7a7a;
+}
+
+#footer {
+  margin-top: 70px;
+}
